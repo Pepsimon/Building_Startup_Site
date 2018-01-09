@@ -3,4 +3,4 @@
 ## Concepts I need to study.
 
 - Box-sizing
-- 
+- Background-clip
